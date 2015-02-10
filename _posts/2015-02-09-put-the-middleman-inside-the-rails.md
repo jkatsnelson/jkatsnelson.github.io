@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to Put the Middleman Inside the Rails
+title: How to Put Middleman Inside of some Rails
 feature-img: "img/sample_feature_img.png"
 ---
 
-Let me tell you how to put the Middleman inside of the Rails.
+Let me tell you how to put Middleman inside of some Rails.
 
 ##Middleman 3:
 
@@ -34,7 +34,7 @@ end
 
 {% endhighlight %}
 
-Run the Rails.
+Run some Rails.
 
 {% highlight bash %}
 rails server
