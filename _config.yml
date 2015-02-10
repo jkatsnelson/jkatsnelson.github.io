@@ -5,44 +5,41 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: John Katsnelson's Blog
   avatar: avatar.png
-  gravatar: # email md5 hash
-  description: "A website with blog posts, and pages." # used by search engines
-  
+  gravatar: 4ad2a920e9f39616591e2a1230027f4a
+  description: "A Coding Blog" # used by search engines
+
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>A technical blog, mostly about javascript and ruby.</p>
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type.html">Type Theme</a>
-  
+
   # Icons
   rss: false
-  email_address: # full email address, e.g. "sam@example.com"
+  email_address: johnkatsnelson@gmail.com
   behance:
-  bitbucket: 
   dribbble: 
   facebook: 
   flickr: 
-  github: "rohanchandra/type-theme"
+  github: "jkatsnelson"
   google_plus: 
   instagram: 
-  linkedin:  # full URL
+  linkedin: "http://www.linkedin.com/in/johnkatsnelson/"
   pinterest: 
   reddit: 
   soundcloud: 
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: "myowz"
   wordpress: 
   youtube: 
   
   # Scripts
-  google_analytics: # tracking id, e.g. "UA-000000-01"
-  disqus_shortname:
+  google_analytics: "UA-58936890-1"
+  disqus_shortname: jkatsnelson
   
   # Localization strings
   str_follow_on: "Follow on"
